@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building 1 API project**
 
-- 🌱 I’m currently learning **.Net and typescript**
+- 🌱 I’m currently learning **golang and django**
 
 - 🤝 I’m looking for help with **more DevOps project**
 
