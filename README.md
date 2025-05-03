@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **building 1 API project**
 
-- 🌱 I’m currently learning **golang and django**
+- 🌱 I’m currently learning **nodejs and django**
 
-- 🤝 I’m looking for help with **more DevOps project**
+- 🤝 I’m looking for help with **more software development project**
 
 - 💬 Ask me about **any thing**
 
