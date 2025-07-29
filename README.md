@@ -3,7 +3,6 @@
 🚀 I’m a **DevOps and Cloud Engineer** transitioning into **AI Engineering**.  
 I build and deploy intelligent systems that combine the power of **automation**, **secure infrastructure**, and **AI APIs** to solve real business problems.
 
----
 
 ## 🔧 What You'll Find Here
 
@@ -18,8 +17,6 @@ I build and deploy intelligent systems that combine the power of **automation**,
 
 - ☁️ **Cloud Architecture**:  
   Deployed with **AWS** (ECS, Beanstalk, Lambda, S3)
-
----
 
 ## 🧠 Current Focus
 
